@@ -55,8 +55,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\Basic1.cs" />
-     <Compile Include="Assets\Script\MiniQuiz.cs" />
+     <Compile Include="Assets\Script\Latihan 1\Basic1.cs" />
+     <Compile Include="Assets\Script\Latihan 1\MiniQuiz.cs" />
+     <Compile Include="Assets\Script\Latihan 2\Latihan2.cs" />
+     <Compile Include="Assets\Script\Latihan 3\Latihan3.cs" />
+     <Compile Include="Assets\Script\Latihan 4\Karakter.cs" />
+     <Compile Include="Assets\Script\Latihan 4\Latihan4.cs" />
+     <Compile Include="Assets\Script\Latihan 5\Manusia.cs" />
+     <Compile Include="Assets\Script\Latihan 5\Prajurit.cs" />
+     <Compile Include="Assets\Script\Latihan6.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
